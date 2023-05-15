@@ -61,6 +61,8 @@ Support vector machine (SVM) classifier will be used for this project. The linea
 
 The features for each audio file will be divided into two halves, and the average of the first half and second half will be taken separately for each audio file. A scatterplot will be generated with the first half of the features on the x-axis and the second half of the features on the y-axis. The color of each audio file on the scatterplot will be based on the class to which it belongs.
 
+![19I-1681](https://user-images.githubusercontent.com/88310782/229387074-de0b63a3-a328-4138-a6e5-09965186af94.png)
+
 ### Accuracy
 
 The accuracy of the model will be calculated using the `accuracy_score` function from scikit-learn.
