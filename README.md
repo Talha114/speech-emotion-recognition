@@ -70,7 +70,7 @@ The accuracy of the model will be calculated using the `accuracy_score` function
 ## Authors
 
 * OpenAI (model)
-* Maryam Baig (implementation)
+* Talha Ali Khan (implementation)
 
 ## Version History
 
