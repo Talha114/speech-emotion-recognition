@@ -1,6 +1,4 @@
-# Project Title
-
-Speech Emotions Recognition (SER)
+# Speech Emotions Recognition (SER)
 
 ## Description
 
