@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, we built a classifier that can determine the emotions concealed in speech signals. We used a dataset of Urdu speech containing emotional utterances from talk shows, with four basic emotions: Angry, Happy, Neutral, and Sad. We extracted three prominent categories of features from the audio files: prosodic features, spectral or vocal tract features, and excitation source features. We then used a support vector machine (SVM) classifier to predict the emotion from the audio features. Additionally, we plotted a scatterplot of the average features of each audio file, with the first half of the features on the x-axis and the second half of the features on the y-axis, colored by the emotion class.
+In this project, I built a classifier that can determine the emotions concealed in speech signals. I used a dataset of Urdu speech containing emotional utterances from talk shows, with four basic emotions: Angry, Happy, Neutral, and Sad. I extracted three prominent categories of features from the audio files: prosodic features, spectral or vocal tract features, and excitation source features. I then used a support vector machine (SVM) classifier to predict the emotion from the audio features. Additionally, I plotted a scatterplot of the average features of each audio file, with the first half of the features on the x-axis and the second half of the features on the y-axis, colored by the emotion class.
 
 ## Getting Started
 
